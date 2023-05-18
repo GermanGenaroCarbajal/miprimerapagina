@@ -187,3 +187,7 @@ a {
   border-radius: 8px;
   margin-left: 4px;
 }
+
+.greeting {
+  text-align: center;
+}
